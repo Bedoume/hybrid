@@ -1,0 +1,7 @@
+{
+  "name": "HybridWilliamMaxime",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
